@@ -1,0 +1,42 @@
+.bun{
+    background-color: rgb(225, 212, 193);
+}
+#lok{
+    color: aqua;
+}
+.anu{
+    border: 1px solid black;
+    box-shadow: 10px 5px 5px rgb(13, 12, 12);
+}
+.pv{
+    width: 80%;
+    margin: auto;
+}
+.ab{
+    border: 2px solid black;
+    background-color: rgb(217, 97, 97);
+}
+.butwid{
+    font-size: 15px;
+    width: 150px;
+    height: 50px;
+}
+.rounded-pill{
+    max-height: 58px;
+    max-width: 300px;
+}
+.sh{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.bg-2{
+    background-color: rgb(38, 38, 148);
+}
+.dan{
+    width: 129px;
+    height: 30px;
+    
+}
+.input-group{
+    width: 400px;
+}
